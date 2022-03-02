@@ -1,3 +1,7 @@
 #include<stdio.h>
-printf("a");
 
+int main(void)
+{
+  printf("s");
+  return (0);
+}
